@@ -3,7 +3,7 @@ name: Deploy .NET Backend to ECS
 on:
   push:
     branches:
-      - main
+      - master
     paths-ignore:
       - 'README.md'
 
